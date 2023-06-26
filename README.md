@@ -6,3 +6,5 @@
 ## Purpose
 
 ## How to contribute
+
+## Copyright
